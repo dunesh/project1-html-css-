@@ -1,0 +1,211 @@
+
+*{
+margin:0;
+padding:0;
+}
+body
+  {
+    background-color:black;
+    background-image:url('/home/revolt-tech-3/grishma/html/project1/images/wrap_bg.gif');
+    background-repeat:no-repeat;
+/*    background-attachment:fixed;*/
+    background-position: 553px 0px;
+
+
+  }
+
+#wrapper
+  {
+    width:1040px;
+    height:auto;
+    margin:0 auto;
+    margin-top:20px;
+    display:block;
+
+  }
+
+  .main_content{
+  display:block;
+  float:left;
+  width:100%;
+
+  }
+
+  .image{
+  display:block;
+  float:left;
+  width:55px;
+  height:55px;
+
+  }
+
+nav
+   {
+      color:white;
+      float:left;
+      display:block;
+     width:100%;
+     margin:0 0 0 50px;
+   }
+nav ul
+  {
+    list-style:none;
+    margin: -4px 0 0 15px;
+  }
+
+nav ul li
+  {
+    float:left;
+    font-weight:bold;
+    font-size:12px;
+    margin:9px 11px 8px 0;
+  }
+#sidemain
+  {
+
+    float:left;
+    height:295px;
+    width:337px;
+  }
+
+
+
+  #sidemain2{
+  display:block;
+  float:left;
+  width:65%;
+  margin:0 0 0 20px;
+  }
+
+#p1
+  {
+    font-size:30px;
+    line-height:40px;
+    color:white;
+    margin: 5px 0px 9px 0px;
+  }
+
+#p2
+  {
+    font-size:15px;
+    line-height:25px;
+    color:white;
+
+    width: 470px;
+  }
+
+.p3
+  {
+    font-size:13px;
+    line-height:25px;
+    color:white;
+    margin:2px 0 0;
+
+  }
+#s3
+  {
+    float:left;
+    height:20px;
+    width:20px;
+    margin:0px 0px 0px 83px;
+  }
+span
+  {
+  color:orange;
+  }
+h1
+  {
+    color:white;
+
+  }
+
+
+  #text h2{
+  font-size:14px;
+  }
+.prize
+      {
+      float: left;
+      width: 176px;
+      }
+
+.img
+      {
+      float: left;
+      width: 171px;
+      border-style:solid;
+      border-color:white;
+      }
+.img1
+    {
+      margin:64px 0px 0px 0px;
+      margin: 61px 28px 0;
+
+    }
+#text
+  {
+    float:left;
+    width:200px;
+    margin:0 10px 0 10px;
+
+  }
+
+#fb {
+    float: left;
+    width: 114px;
+    }
+
+#h2
+  {
+    color:orange;
+    line-height:10px;
+  }
+
+.content
+  {
+    float:left;
+    width:100%;
+
+  }
+
+
+.p4 {
+      font-size:15px;
+    line-height: 36px;
+    margin: 0 0 0;
+    color:white;
+    }
+
+
+  .antidandruff{
+  display:block;
+  float:left;
+  width:90%;
+  margin:0 0 50px 0;
+
+  }
+
+#footer
+  {
+  width:960px;
+  border-style:solid;
+  border-color:white;
+  border-bottom:15px;
+  position:relative;
+  display:block;
+  }
+  #shampoo
+  {
+  width:270;
+  float:right;
+  }
+#bottom{
+  margin-top:-55px;
+  z-index:-1;
+  width:100%;
+  float:left;
+  border-top-style: solid ;
+border-top-color: white;
+border-bottom-width: 5px;
+
+}
